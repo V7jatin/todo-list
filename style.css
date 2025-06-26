@@ -99,3 +99,11 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2px;
+  background-color: #f2f2f2;
+}
